@@ -1,0 +1,9 @@
+F:\_Source\E-Fatura\Programlar\Suleyman\TCP_Server_Multi\TCP_Server_Multi\bin\Debug\TCP_Server_Multi.exe.config
+F:\_Source\E-Fatura\Programlar\Suleyman\TCP_Server_Multi\TCP_Server_Multi\bin\Debug\TCP_Server_Multi.exe
+F:\_Source\E-Fatura\Programlar\Suleyman\TCP_Server_Multi\TCP_Server_Multi\bin\Debug\TCP_Server_Multi.pdb
+F:\_Source\E-Fatura\Programlar\Suleyman\TCP_Server_Multi\TCP_Server_Multi\obj\Debug\TCP_Server_Multi.csprojResolveAssemblyReference.cache
+F:\_Source\E-Fatura\Programlar\Suleyman\TCP_Server_Multi\TCP_Server_Multi\obj\Debug\TCP_Server_Multi.Form1.resources
+F:\_Source\E-Fatura\Programlar\Suleyman\TCP_Server_Multi\TCP_Server_Multi\obj\Debug\TCP_Server_Multi.Properties.Resources.resources
+F:\_Source\E-Fatura\Programlar\Suleyman\TCP_Server_Multi\TCP_Server_Multi\obj\Debug\TCP_Server_Multi.csproj.GenerateResource.Cache
+F:\_Source\E-Fatura\Programlar\Suleyman\TCP_Server_Multi\TCP_Server_Multi\obj\Debug\TCP_Server_Multi.exe
+F:\_Source\E-Fatura\Programlar\Suleyman\TCP_Server_Multi\TCP_Server_Multi\obj\Debug\TCP_Server_Multi.pdb
