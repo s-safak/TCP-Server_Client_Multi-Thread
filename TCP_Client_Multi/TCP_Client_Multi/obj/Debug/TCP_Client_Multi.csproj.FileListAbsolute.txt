@@ -1,0 +1,9 @@
+F:\_Source\E-Fatura\Programlar\Suleyman\TCP_Client_Multi\TCP_Client_Multi\bin\Debug\TCP_Client_Multi.exe.config
+F:\_Source\E-Fatura\Programlar\Suleyman\TCP_Client_Multi\TCP_Client_Multi\obj\Debug\TCP_Client_Multi.csprojResolveAssemblyReference.cache
+F:\_Source\E-Fatura\Programlar\Suleyman\TCP_Client_Multi\TCP_Client_Multi\obj\Debug\TCP_Client_Multi.Form1.resources
+F:\_Source\E-Fatura\Programlar\Suleyman\TCP_Client_Multi\TCP_Client_Multi\obj\Debug\TCP_Client_Multi.Properties.Resources.resources
+F:\_Source\E-Fatura\Programlar\Suleyman\TCP_Client_Multi\TCP_Client_Multi\obj\Debug\TCP_Client_Multi.csproj.GenerateResource.Cache
+F:\_Source\E-Fatura\Programlar\Suleyman\TCP_Client_Multi\TCP_Client_Multi\bin\Debug\TCP_Client_Multi.exe
+F:\_Source\E-Fatura\Programlar\Suleyman\TCP_Client_Multi\TCP_Client_Multi\bin\Debug\TCP_Client_Multi.pdb
+F:\_Source\E-Fatura\Programlar\Suleyman\TCP_Client_Multi\TCP_Client_Multi\obj\Debug\TCP_Client_Multi.exe
+F:\_Source\E-Fatura\Programlar\Suleyman\TCP_Client_Multi\TCP_Client_Multi\obj\Debug\TCP_Client_Multi.pdb
